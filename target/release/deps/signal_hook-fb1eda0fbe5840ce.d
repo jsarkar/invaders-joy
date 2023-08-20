@@ -1,0 +1,11 @@
+/Users/j0s0qfs/projects/personal_projects/invaders-joy/target/release/deps/signal_hook-fb1eda0fbe5840ce.rmeta: /Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/lib.rs /Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/cleanup.rs /Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/flag.rs /Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/iterator.rs /Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/pipe.rs
+
+/Users/j0s0qfs/projects/personal_projects/invaders-joy/target/release/deps/libsignal_hook-fb1eda0fbe5840ce.rlib: /Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/lib.rs /Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/cleanup.rs /Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/flag.rs /Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/iterator.rs /Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/pipe.rs
+
+/Users/j0s0qfs/projects/personal_projects/invaders-joy/target/release/deps/signal_hook-fb1eda0fbe5840ce.d: /Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/lib.rs /Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/cleanup.rs /Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/flag.rs /Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/iterator.rs /Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/pipe.rs
+
+/Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/lib.rs:
+/Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/cleanup.rs:
+/Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/flag.rs:
+/Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/iterator.rs:
+/Users/j0s0qfs/.cargo/registry/src/index.crates.io-6f17d22bba15001f/signal-hook-0.1.17/src/pipe.rs:
